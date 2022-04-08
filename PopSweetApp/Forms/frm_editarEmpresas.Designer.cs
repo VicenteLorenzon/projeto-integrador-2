@@ -177,7 +177,7 @@ namespace PopSweetApp
             // mtx_cnpj
             // 
             this.mtx_cnpj.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.mtx_cnpj.Location = new System.Drawing.Point(215, 147);
+            this.mtx_cnpj.Location = new System.Drawing.Point(232, 147);
             this.mtx_cnpj.Mask = "99,999,999/9999-99";
             this.mtx_cnpj.Name = "mtx_cnpj";
             this.mtx_cnpj.Size = new System.Drawing.Size(155, 26);
@@ -187,7 +187,7 @@ namespace PopSweetApp
             // 
             this.lbl_cnpj.AutoSize = true;
             this.lbl_cnpj.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_cnpj.Location = new System.Drawing.Point(211, 125);
+            this.lbl_cnpj.Location = new System.Drawing.Point(228, 125);
             this.lbl_cnpj.Name = "lbl_cnpj";
             this.lbl_cnpj.Size = new System.Drawing.Size(53, 19);
             this.lbl_cnpj.TabIndex = 39;
